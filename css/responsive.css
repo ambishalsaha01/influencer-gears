@@ -1,4 +1,4 @@
-/* Desktops, large screens. */
+/* ~~~~~~~~~~~ Desktops, large screens ~~~~~~~~~~~ */
 @media only screen and (max-width: 1200px){
     .container{
         max-width: 100%;
@@ -6,7 +6,7 @@
     }
 }
 
-/* Tablet view */
+/* ~~~~~~~~~~~ Tablet view ~~~~~~~~~~~ */
 @media only screen and (max-width: 768px){
     /* header section */
     .header-text-box .header-text-items{
@@ -43,8 +43,8 @@
     }
 }
 
-/* Mobile view */
-@media only screen and (max-width: 426px){
+/* ~~~~~~~~~~~ Mobile view ~~~~~~~~~~~ */
+@media only screen and (max-width: 576px){
     /* header section */
     .menu-container .logo-title{
         width: 100%;

@@ -1,7 +1,7 @@
-/* Google Fonts */
+/* ~~~~~~~~~~~ Google Fonts ~~~~~~~~~~~ */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
 
-/* Common css style start */
+/* ~~~~~~~~~~~ Common css style start ~~~~~~~~~~~ */
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #f5f6fa;
@@ -46,9 +46,9 @@ h2.section-title{
 .btn-link:hover{
     transform: scale(1.1);
 }
-/* Common css style end */
+/* ~~~~~~~~~~~ Common css style end ~~~~~~~~~~~ */
 
-/* Header section start */
+/* ~~~~~~~~~~~ Header section start ~~~~~~~~~~~ */
 .header-top{
     background-color: #F8EFBA;
 }
@@ -103,9 +103,9 @@ h2.section-title{
 .header-text-box .header-img img{
     width: 80%;
 }
-/* Header section end */
+/* ~~~~~~~~~~~ Header section end ~~~~~~~~~~~ */
 
-/* Brand Section Style Start */
+/* ~~~~~~~~~~~ Brand Section Style Start ~~~~~~~~~~~ */
 .brand .brand-items{
     display: grid;
     grid-template-columns: repeat(7, 1fr);
@@ -118,9 +118,9 @@ h2.section-title{
 .brand .brand-items .brand-item{
     text-align: center;
 }
-/* Brand Section Style End */
+/* ~~~~~~~~~~~ Brand Section Style End ~~~~~~~~~~~ */
 
-/* Product Section Style start */
+/* ~~~~~~~~~~~ Product Section Style start ~~~~~~~~~~~ */
 .product .product-items{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -179,9 +179,9 @@ h2.section-title{
     background-color: transparent;
     color: #0c2461;
 }
-/* Product Section Style end */
+/* ~~~~~~~~~~~ Product Section Style end ~~~~~~~~~~~  */
 
-/* Subscription section style start */
+/* ~~~~~~~~~~~ Subscription section style start ~~~~~~~~~~~  */
 .subscription{
     background-color: #F8EFBA;
 }
@@ -221,9 +221,9 @@ h2.section-title{
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
 }
-/* Subscription section style end */
+/* ~~~~~~~~~~~ Subscription section style end ~~~~~~~~~~~ */
 
-/* Footer section Style start */
+/* ~~~~~~~~~~~ Footer section Style start ~~~~~~~~~~~ */
 .footer{
     background-color: #182C61;
     text-align: center;
@@ -255,4 +255,4 @@ h2.section-title{
     border-radius: 20px;
     border: 1px solid #fff
 }
-/* Footer section Style end */
+/* ~~~~~~~~~~~ Footer section Style end ~~~~~~~~~~~ */
